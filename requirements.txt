@@ -6,3 +6,4 @@ python-docx
 google-generativeai
 plotly
 openpyxl
+tabulate
